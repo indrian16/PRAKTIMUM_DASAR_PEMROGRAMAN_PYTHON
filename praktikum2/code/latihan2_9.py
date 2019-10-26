@@ -10,6 +10,7 @@ print(date) # date bernilai 16 ditambah sama dengan 4, hasilnya 32
 
 # Mengunakan Operator Perbandingan
 print(name != date) # name berisi INDRIAN dan tidak masa dengan date = 16.
+                    # Maka dia mengembalikan nilai true
 
 # Mengunakan Operator Logika
 logic = not 16 < 4 # 4 lebih besar dari pada 16 adalah salah maka nilainya FALSE
@@ -23,5 +24,5 @@ print("R" in name)  # Pada sequence "R" terdapat nilai spesifik dengan INDRIAN
                     # Maka hasilnya TRUE
                     
 # Mengunakan Operator Bitwese
-print(date | 4) # date bernilai 32(100000) digankan dengan 4(100)
+print(date | 4) # date bernilai 32(100000) dibandingkan dengan 4(100)
                 # Mengunakan operator | (or) maka hasilnya 100100(36)
