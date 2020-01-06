@@ -1,0 +1,9 @@
+Name: INDRIAN
+study: Universitas Muhammadiyah Kalimantan Timur
+Prodi: Teknik Informatika
+Technology enthusiasts: Android, Flutter, Java Spring
+Programming Language: Java, Kotlin, Dart, Python
+study: Universitas Muhammadiyah Kalimantan Timur
+Prodi: Teknik Informatika
+Technology enthusiasts: Android, Flutter, Java Spring
+Programming Language: Java, Kotlin, Dart, Python
